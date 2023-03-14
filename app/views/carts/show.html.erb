@@ -4,13 +4,13 @@
     <h1>My Cart</h1>
   </header>
 
-  <% if enhanced_cart.length == 0 %>
+  <% if cart.empty?  %>
 
-    <h1> Your cart is empty! </h1>
-    <%= link_to 'Back', products_path %>
+    <h2 class="alert alert-info" role="alert"> Your cart is empty! </h1>
+    <%= link_to 'Back', :root, class: 'btn btn-info' %>
 
   <% else %>
-  
+
     <div class="panel panel-default items">
       <table class="table table-bordered">
         <thead>
