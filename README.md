@@ -29,3 +29,28 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+## Screenshots
+
+Here are three screenshots that showcase the Jungle mini e-commerce application built with Ruby on Rails:
+
+### Homepage
+
+(jungle-1.png)
+(jungle-2.png)
+
+The application's homepage, where users can browse and view various products available for purchase.
+
+### Product Details
+
+(jungle-4.png)
+
+The product details page, providing information about a specific item, including its description, price, and availability.
+
+### Shopping Cart
+
+(jungle-3.png)
+
+You can see the user's shopping cart, where selected items are displayed, and users can review and manage their orders before proceeding to checkout.
+
+These screenshots offer a visual glimpse of the key features and functionality of the Jungle application.
