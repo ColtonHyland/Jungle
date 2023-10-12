@@ -43,13 +43,13 @@ The application's homepage, where users can browse and view various products ava
 
 ### Product Details
 
-(jungle-4.png)
+![jungle-4.png](https://github.com/ColtonHyland/Jungle/blob/40b172fefcdfefd7d6229202812cedddb6357da5/jungle-4.png)
 
 The product details page, providing information about a specific item, including its description, price, and availability.
 
 ### Shopping Cart
 
-(jungle-3.png)
+![jungle-3.png](https://github.com/ColtonHyland/Jungle/blob/40b172fefcdfefd7d6229202812cedddb6357da5/jungle-3.png)
 
 You can see the user's shopping cart, where selected items are displayed, and users can review and manage their orders before proceeding to checkout.
 
