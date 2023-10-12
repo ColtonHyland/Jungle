@@ -36,8 +36,8 @@ Here are three screenshots that showcase the Jungle mini e-commerce application 
 
 ### Homepage
 
-(jungle-1.png)
-(jungle-2.png)
+![jungle-1.png](https://github.com/ColtonHyland/Jungle/blob/201768bbe1d7e0be95d561785e1e2fc4b21818d9/jungle-1.png)
+![jungle-2.png](https://github.com/ColtonHyland/Jungle/blob/201768bbe1d7e0be95d561785e1e2fc4b21818d9/jungle-2.png)
 
 The application's homepage, where users can browse and view various products available for purchase.
 
